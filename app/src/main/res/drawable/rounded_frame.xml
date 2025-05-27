@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Configuración de esquinas redondeadas solo en la parte inferior -->
+    <corners
+        android:bottomLeftRadius="60dp"
+        android:bottomRightRadius="60dp" />
+
+    <solid android:color="#9ACBD0"/> <!-- Color de fondo -->
+
+    <!-- <stroke android:width="2dp" android:color="#000000"/>  Borde opcional -->
+
+</shape>
